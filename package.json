@@ -1,6 +1,6 @@
 {
   "name": "deviceconsole",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "iOS system log tailer that doesn't suck",
   "main": "deviceconsole",
   "scripts": {
